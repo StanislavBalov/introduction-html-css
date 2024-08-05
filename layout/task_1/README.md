@@ -1,3 +1,3 @@
 * Решение задания №1 "Верстка блока с кратким описанием языка HTML"
 
-По данной [ссылке] (https://codepen.io/StanislavBalov/pen/jOjwWRE?editors=1100) находится выполнение задания "Верстка блока с кратким описанием языка HTML" на codepen.io
+По данной [ссылке](https://codepen.io/StanislavBalov/pen/jOjwWRE?editors=1100) находится выполнение задания "Верстка блока с кратким описанием языка HTML" на codepen.io
